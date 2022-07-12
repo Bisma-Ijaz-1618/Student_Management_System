@@ -1,0 +1,15 @@
+c:\users\hira imtiaz\documents\visual studio 2010\Projects\AutoMEd\AutoMEd\bin\Debug\AutoMEd.exe
+c:\users\hira imtiaz\documents\visual studio 2010\Projects\AutoMEd\AutoMEd\bin\Debug\AutoMEd.pdb
+c:\users\hira imtiaz\documents\visual studio 2010\Projects\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.Properties.Resources.resources
+c:\users\hira imtiaz\documents\visual studio 2010\Projects\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.GenerateResource.Cache
+c:\users\hira imtiaz\documents\visual studio 2010\Projects\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.exe
+c:\users\hira imtiaz\documents\visual studio 2010\Projects\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.pdb
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\bin\Debug\AutoMEd.exe
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\bin\Debug\AutoMEd.pdb
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csprojAssemblyReference.cache
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.Form1.resources
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.Properties.Resources.resources
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.GenerateResource.cache
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.CoreCompileInputs.cache
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.exe
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.pdb

@@ -1,0 +1,23 @@
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\bin\Debug\AutoMEd.exe
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\bin\Debug\AutoMEd.pdb
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csprojAssemblyReference.cache
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.Form1.resources
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.Properties.Resources.resources
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.GenerateResource.cache
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.CoreCompileInputs.cache
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.exe
+C:\Users\EAMAAN QURESHI\Downloads\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.pdb
+C:\Users\EAMAAN QURESHI\Downloads\PROGRAMS MOVIES DRAMAS\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csprojAssemblyReference.cache
+C:\Users\EAMAAN QURESHI\Downloads\PROGRAMS MOVIES DRAMAS\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.Form1.resources
+C:\Users\EAMAAN QURESHI\Downloads\PROGRAMS MOVIES DRAMAS\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.Properties.Resources.resources
+C:\Users\EAMAAN QURESHI\Downloads\PROGRAMS MOVIES DRAMAS\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.GenerateResource.cache
+C:\Users\EAMAAN QURESHI\Downloads\PROGRAMS MOVIES DRAMAS\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.CoreCompileInputs.cache
+C:\Users\EAMAAN QURESHI\Downloads\PROGRAMS MOVIES DRAMAS\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.exe
+C:\Users\EAMAAN QURESHI\Downloads\PROGRAMS MOVIES DRAMAS\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.pdb
+C:\Users\EAMAAN QURESHI\Downloads\PROGRAMS MOVIES DRAMAS\AutoMEd\AutoMEd\bin\Debug\AutoMEd.exe
+C:\Users\EAMAAN QURESHI\Downloads\PROGRAMS MOVIES DRAMAS\AutoMEd\AutoMEd\bin\Debug\AutoMEd.pdb
+D:\NUST\Semester 3\Database Systems\project\Project\AutoMEd\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.AssemblyReference.cache
+D:\NUST\Semester 3\Database Systems\project\Project\AutoMEd\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.Form1.resources
+D:\NUST\Semester 3\Database Systems\project\Project\AutoMEd\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.Properties.Resources.resources
+D:\NUST\Semester 3\Database Systems\project\Project\AutoMEd\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.GenerateResource.cache
+D:\NUST\Semester 3\Database Systems\project\Project\AutoMEd\AutoMEd\AutoMEd\obj\x86\Debug\AutoMEd.csproj.CoreCompileInputs.cache
